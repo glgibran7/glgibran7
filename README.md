@@ -1,4 +1,4 @@
-![Gibran](<img/github-header-image%20(11).png>)
+![Gibran](<img/github-header-image(1).png>)
 
 ## Hi there 👋
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgibran7&show_icons=true&theme=tokyonight) -->
 
-##### Play game with me
+##### Let's play
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glgibran7/glgibran7/output/pacman-contribution-graph-dark.svg">
