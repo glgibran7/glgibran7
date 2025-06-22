@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/glgibran_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glgibran/)
 
-##### My Github stats
+<!-- ##### My Github stats
 
-![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgibran7&show_icons=true&theme=tokyonight)
+![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgibran7&show_icons=true&theme=tokyonight) -->
 
 ##### Play game with me
 
