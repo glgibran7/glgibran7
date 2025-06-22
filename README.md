@@ -1,5 +1,3 @@
-## Hi there! I'm Guruh La'la Gibran 👋
-
 ![Gibran](<img/github-header-image%20(11).png>)
 
 <!--
@@ -25,4 +23,14 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://instagram.com/glgibran_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/glgibran/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)
+![https://instagram.com/glgibran_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/glgibran/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### My Github stats
+
+![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgibran7&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glgibran7/glgibran7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glgibran7/glgibran7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glgibran7/glgibran7/output/pacman-contribution-graph.svg">
+</picture>
