@@ -1,6 +1,6 @@
 ## Hi there! I'm Guruh La'la Gibran 👋
 
-![Gibran](<img/github-header-image%20(4).png>)
+![Gibran](<img/github-header-image%20(11).png>)
 
 <!--
 **glgibran7/glgibran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
