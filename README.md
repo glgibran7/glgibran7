@@ -1,5 +1,7 @@
 ![Gibran](<img/github-header-image%20(11).png>)
 
+## Hi there 👋
+
 <!--
 **glgibran7/glgibran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
