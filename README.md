@@ -1,4 +1,4 @@
-![Gibran](<img/github-header-image(1).png>)
+![Gibran](<img/github-header-image (1).png>)
 
 ## Hi there 👋
 
